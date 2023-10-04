@@ -1,4 +1,4 @@
-# Data analysis of accidents on highways in Brazil
+# Data analysis of highways` accidents in Brazil
 Code related to the final project for the Data Science course
 
 At First, download the folders present on this GitHub and the following compressed folder:
